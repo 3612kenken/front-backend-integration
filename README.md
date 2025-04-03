@@ -12,8 +12,8 @@ npm run dev
 npm run dev is used to run your react project
 ### Other features to update
 
-> React using Bootstrap CSS Framework
-> Chart.js/Apexchart for data visualization and analytics
+* React using Bootstrap CSS Framework
+* Chart.js/Apexchart for data visualization and analytics
 
 ## BACKEND
 
