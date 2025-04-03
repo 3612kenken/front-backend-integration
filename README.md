@@ -2,7 +2,7 @@
 
 By [codewarriork3nz](https://github.com/3612kenken/)
 
-## FRONTEND 
+## FRONTEND SETUP
 React Framework with Vite Setup
 
 ```
@@ -13,7 +13,7 @@ npm run dev
 ```
 npm run dev is used to run your react project
 
-## BACKEND
+## BACKEND SETUP
 
 ```
 npm init
