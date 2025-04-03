@@ -19,11 +19,11 @@ npm install express mongoose cors
 npm install nodemon
 ```
 
-## UNIT TESTING DEMO
+### UNIT TESTING DEMO
 
 * This repository is built as [Unit Testing Code](https://github.com/thehungrycoder225/unit-test-demo.git) demo by [thehungrycoder225](https://github.com/thehungrycoder225/).
 
-## OTHER FRONT END INTEGRATION DEMO
+### OTHER FRONT END INTEGRATION DEMO
 * This repository is built as [Front End Integration](https://github.com/thehungrycoder225/demo-frontend-integration.git) demo by [thehungrycoder225](https://github.com/thehungrycoder225/).
 
 ### Other features to update
