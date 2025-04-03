@@ -1,4 +1,4 @@
-# Simple Frontend and Backend Integration
+# Simple Frontend and Backend Integration Setup
 
 ## FRONTEND 
 React Framework with Vite Setup
