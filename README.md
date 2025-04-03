@@ -20,6 +20,11 @@ npm init
 npm install express mongoose cors
 npm install nodemon
 ```
+# Other features to update in this repository
+
+* Mongoose CRUD
+* React using Bootstrap CSS Framework
+* Chart.js/Apexchart for data visualization and analytics
 
 ### UNIT TESTING DEMO
 
@@ -28,8 +33,8 @@ npm install nodemon
 ### OTHER FRONT END INTEGRATION DEMO
 * This repository is built as [Front End Integration](https://github.com/thehungrycoder225/demo-frontend-integration.git) demo by [thehungrycoder225](https://github.com/thehungrycoder225/).
 
-# Other features to update
+### Mongoose CRUD DEMO
+* This repository is built as [Guide to MongoDB](https://github.com/thehungrycoder225/guide-to-mongodb.git) demo by [thehungrycoder225](https://github.com/thehungrycoder225/).
 
-* React using Bootstrap CSS Framework
-* Chart.js/Apexchart for data visualization and analytics
+
 
