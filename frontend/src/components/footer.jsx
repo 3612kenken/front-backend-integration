@@ -8,9 +8,17 @@ export default function Footer() {
 
   return (
     <>
-      <div className="card">
-        <h3>{fcontents}</h3>
-      </div>
+      <footer className="bg-body-tertiary text-center text-lg-start">
+        <div
+          className="text-center p-3"
+          style="background-color: rgba(0, 0, 0, 0.05);"
+        >
+          © 2020 Copyright:
+          <a className="text-body" href="#">
+            Kenz Website
+          </a>
+        </div>
+      </footer>
     </>
   );
 }
