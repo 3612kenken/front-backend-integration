@@ -9,7 +9,9 @@ React Framework with Vite Setup
 npm create vite@latest <your project name> -- --template react
 cd <your project name>
 npm install
-npm run dev 
+npm run dev
+
+npm i -D react-router-dom 
 ```
 npm run dev is used to run your react project
 
