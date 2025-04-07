@@ -26,9 +26,9 @@ npm install nodemon
 ```
 
 ## Screen Shots
-![Dashboard Screenshot ]([dashboard.png])
+![Dashboard Screenshot ]([https://github.com/3612kenken/front-backend-integration/blob/main/dashboard.png])
 
-![MongoDB Screenshot ]([database.png])
+![MongoDB Screenshot ]([https://github.com/3612kenken/front-backend-integration/blob/main/database.png])
 
 # Other features to update in this repository
 
