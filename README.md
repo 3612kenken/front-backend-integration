@@ -25,9 +25,9 @@ npm install express mongoose cors
 npm install nodemon
 ```
 
-## Screen Shots
+## Dashboard Screenshot
 ![Dashboard Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/dashboard.png)
-
+## Database Screenshot
 ![MongoDB Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/database.png)
 
 # Other features to update in this repository
