@@ -1,4 +1,4 @@
-# Simple Frontend and Backend Integration Project + Setup Guide
+# Simple MERN Stack Project + Setup Guide
 
 By [codewarriork3nz](https://github.com/3612kenken/)
 
