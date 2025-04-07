@@ -14,9 +14,9 @@ npm run dev
 
 npm i -D react-router-dom
 ```
-- Create database from MongoDB -> db_cruds
-- Look for JSON files from Database folder path
-- Import files into mongoDB collection with the following names tbl_business and tbl_users
+- Create database from MongoDB -> 'db_cruds'
+- Look for JSON files from 'database' folder path
+- Import files into mongoDB collection with the following names 'tbl_business' and 'tbl_users'
 - You can see the Database Screenshot below for clarification
   
 ### To run your frontend site use
