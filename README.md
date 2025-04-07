@@ -41,11 +41,11 @@ nodemon index.js
 ## API Screenshot
 ![API Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/api-backend.png)
 
-# Other features to update in this repository
+# Other features to update
 
-- Mongoose CRUD
-- React using Bootstrap CSS Framework
-- Chart.js/Apexchart for data visualization and analytics
+- Mongoose CRUD and API - 80% Done
+- React using Bootstrap CSS Framework - Done
+- Chart.js/Apexchart for data visualization and analytics - Done
 
 ### UNIT TESTING DEMO
 
