@@ -25,6 +25,11 @@ npm install express mongoose cors
 npm install nodemon
 ```
 
+## Screen Shots
+![Dashboard Screenshot ]([dashboard.png))
+
+![MongoDB Screenshot ]([database.png))
+
 # Other features to update in this repository
 
 - Mongoose CRUD
