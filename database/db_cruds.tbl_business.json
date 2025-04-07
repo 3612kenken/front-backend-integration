@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3566"
+  },
+  "company_id": "comp1",
+  "name": "John Doe",
+  "age": 45,
+  "gender": "Male",
+  "company": "John Tech",
+  "business_type": "Technology",
+  "city": "New York",
+  "income": 120000,
+  "investment": 500000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3567"
+  },
+  "company_id": "comp2",
+  "name": "Alice Johnson",
+  "age": 38,
+  "gender": "Female",
+  "company": "Global Solutions Inc.",
+  "business_type": "Consulting",
+  "city": "San Francisco",
+  "income": 95000,
+  "investment": 200000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3568"
+  },
+  "company_id": "comp3",
+  "name": "Alice Johnson",
+  "age": 38,
+  "gender": "Female",
+  "company": "Smith & Co. Enterprises",
+  "business_type": "Finance",
+  "city": "Chicago",
+  "income": 200000,
+  "investment": 1000000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3569"
+  },
+  "company_id": "comp4",
+  "name": "Alice Johnson",
+  "age": 38,
+  "gender": "Female",
+  "company": "Green Energy Solutions",
+  "business_type": "Renewable Energy",
+  "city": "Chicago",
+  "income": 85000,
+  "investment": 300000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda356a"
+  },
+  "company_id": "comp5",
+  "name": "Michael Williams",
+  "age": 42,
+  "gender": "Male",
+  "company": "Alpha Logistics",
+  "business_type": "Logistics",
+  "city": "Chicago",
+  "income": 130000,
+  "investment": 450000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda356b"
+  },
+  "company_id": "comp6",
+  "name": "Emma Brown",
+  "age": 29,
+  "gender": "Female",
+  "company": "Beauty & Wellness",
+  "business_type": "Health & Wellness",
+  "city": "Miami",
+  "income": 70000,
+  "investment": 100000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda356c"
+  },
+  "company_id": "comp7",
+  "name": "James Davis",
+  "age": 53,
+  "gender": "Male",
+  "company": "Davis Construction Corp.",
+  "business_type": "Construction",
+  "city": "Houston",
+  "income": 175000,
+  "investment": 800000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda356d"
+  },
+  "company_id": "comp8",
+  "name": "Sophia Martinez",
+  "age": 40,
+  "gender": "Female",
+  "company": "Sophia's Fashion House",
+  "business_type": "Fashion",
+  "city": "Los Angeles",
+  "income": 110000,
+  "investment": 250000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda356e"
+  },
+  "company_id": "comp9",
+  "name": "Robert Taylor",
+  "age": 36,
+  "gender": "Male",
+  "company": "Global Marketing Solutions",
+  "business_type": "Marketing",
+  "city": "Chicago",
+  "income": 95000,
+  "investment": 300000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda356f"
+  },
+  "company_id": "comp10",
+  "name": "Olivia Clark",
+  "age": 33,
+  "gender": "Female",
+  "company": "Olivia Tech",
+  "business_type": "Technology",
+  "city": "San Francisco",
+  "income": 120000,
+  "investment": 350000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3570"
+  },
+  "company_id": "comp11",
+  "name": "Ethan Walker",
+  "age": 48,
+  "gender": "Male",
+  "company": "Walker Enterprises",
+  "business_type": "Retail",
+  "city": "Chicago",
+  "income": 140000,
+  "investment": 400000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3571"
+  },
+  "company_id": "comp12",
+  "name": "Isabello Harris",
+  "age": 41,
+  "gender": "Male",
+  "company": "Harris Consulting Group",
+  "business_type": "Consulting",
+  "city": "Boston",
+  "income": 105000,
+  "investment": 200000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3572"
+  },
+  "company_id": "comp13",
+  "name": "Daniel Young",
+  "age": 39,
+  "gender": "Male",
+  "company": "Young & Co. Investment",
+  "business_type": "Finance",
+  "city": "Atlanta",
+  "income": 180000,
+  "investment": 500000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3573"
+  },
+  "company_id": "comp14",
+  "name": "Mia Allen",
+  "age": 30,
+  "gender": "Female",
+  "company": "Mia's Organic Foods",
+  "business_type": "Food & Beverage",
+  "city": "Austin",
+  "income": 75000,
+  "investment": 150000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3574"
+  },
+  "company_id": "comp15",
+  "name": "William Scott",
+  "age": 46,
+  "gender": "Male",
+  "company": "TechWave Solutions",
+  "business_type": "Technology",
+  "city": "San Francisco",
+  "income": 140000,
+  "investment": 600000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3575"
+  },
+  "company_id": "comp16",
+  "name": "Charlotte Adams",
+  "age": 37,
+  "gender": "Female",
+  "company": "Adams Apparel",
+  "business_type": "Fashion",
+  "city": "Chicago",
+  "income": 80000,
+  "investment": 250000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3576"
+  },
+  "company_id": "comp17",
+  "name": "Alexander Moore",
+  "age": 54,
+  "gender": "Male",
+  "company": "Moore Engineering Inc.",
+  "business_type": "Engineering",
+  "city": "Detroit",
+  "income": 150000,
+  "investment": 700000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3577"
+  },
+  "company_id": "comp18",
+  "name": "Amelia Harris",
+  "age": 34,
+  "gender": "Female",
+  "company": "Harris Media Group",
+  "business_type": "Media",
+  "city": "Miami",
+  "income": 90000,
+  "investment": 250000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3578"
+  },
+  "company_id": "comp19",
+  "name": "Liam King",
+  "age": 41,
+  "gender": "Male",
+  "company": "King Enterprises",
+  "business_type": "Retail",
+  "city": "Phoenix",
+  "income": 125000,
+  "investment": 550000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda3579"
+  },
+  "company_id": "comp20",
+  "name": "Grace Rodriguez",
+  "age": 44,
+  "gender": "Female",
+  "company": "Grace Consulting",
+  "business_type": "Consulting",
+  "city": "San Diego",
+  "income": 110000,
+  "investment": 400000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda357a"
+  },
+  "company_id": "comp21",
+  "name": "Benjamin Lee",
+  "age": 43,
+  "gender": "Male",
+  "company": "Skyline Ventures",
+  "business_type": "Technology",
+  "city": "Dallas",
+  "income": 130000,
+  "investment": 600000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda357b"
+  },
+  "company_id": "comp22",
+  "name": "Sophia Grant",
+  "age": 34,
+  "gender": "Female",
+  "company": "EcoTech Industries",
+  "business_type": "Renewable Energy",
+  "city": "San Francisco",
+  "income": 105000,
+  "investment": 400000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda357c"
+  },
+  "company_id": "comp23",
+  "name": "Oliver Carter",
+  "age": 50,
+  "gender": "Male",
+  "company": "Carter Consulting",
+  "business_type": "Consulting",
+  "city": "Boston",
+  "income": 150000,
+  "investment": 500000
+},
+{
+  "_id": {
+    "$oid": "67f33eedd483b26dedda357d"
+  },
+  "company_id": "comp24",
+  "name": "Lucas Green",
+  "age": 39,
+  "gender": "Male",
+  "company": "GreenTech Innovations",
+  "business_type": "Technology",
+  "city": "Los Angeles",
+  "income": 140000,
+  "investment": 450000
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "678ca698aea3fcf3fa22b972"
+  },
+  "fullname": "Kenneth Omiping",
+  "username": "admin",
+  "password": "admin"
+},
+{
+  "_id": {
+    "$oid": "678ca775c4cdad11d7cb0ce2"
+  },
+  "fullname": "Kenz Omiping",
+  "username": "adminew",
+  "password": "adminnew"
+},
+{
+  "_id": {
+    "$oid": "678ca9c4c4cdad11d7cb0ce3"
+  },
+  "fullname": "Jose Rizal",
+  "username": "jose",
+  "password": "rizal"
+},
+{
+  "_id": {
+    "$oid": "678ca9c4c4cdad11d7cb0ce4"
+  },
+  "fullname": "Kob Briant",
+  "username": "kobe",
+  "password": "briant"
+},
+{
+  "_id": {
+    "$oid": "678caf47c4cdad11d7cb0cef"
+  },
+  "fullname": "Jose Rizal",
+  "username": "jose",
+  "password": "rizal"
+},
+{
+  "_id": {
+    "$oid": "678caf47c4cdad11d7cb0cf0"
+  },
+  "fullname": "Kob Briant",
+  "username": "kobe",
+  "password": "briant"
+}]
