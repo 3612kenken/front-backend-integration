@@ -19,6 +19,13 @@ npm i -D react-router-dom
 - Import files into mongoDB collection with the following names 'tbl_business' and 'tbl_users'
 - You can see the Database Screenshot below for clarification
   
+## BACKEND SETUP
+
+```
+npm init
+npm install express mongoose cors
+npm install nodemon
+```
 ### To run your frontend site use
 ```
 npm run dev
@@ -27,14 +34,6 @@ npm run dev
 ```
 nodemon index.js
 ```
-## BACKEND SETUP
-
-```
-npm init
-npm install express mongoose cors
-npm install nodemon
-```
-
 ## Dashboard Screenshot
 ![Dashboard Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/dashboard.png)
 ## Database Screenshot
