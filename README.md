@@ -38,6 +38,8 @@ nodemon index.js
 ![Dashboard Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/dashboard.png)
 ## Database Screenshot
 ![MongoDB Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/database.png)
+## API Screenshot
+![API Screenshot ](https://github.com/3612kenken/front-backend-integration/blob/main/api-backend.png)
 
 # Other features to update in this repository
 
