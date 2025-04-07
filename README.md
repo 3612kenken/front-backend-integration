@@ -14,9 +14,19 @@ npm run dev
 
 npm i -D react-router-dom
 ```
-
-npm run dev is used to run your react project
-
+- Create database from MongoDB -> db_cruds
+- Look for JSON files from Database folder path
+- Import files into mongoDB collection with the following names tbl_business and tbl_users
+- You can see the Database Screenshot below for clarification
+  
+### To run your frontend site use
+```
+npm run dev
+```
+### To run your backend site use
+```
+nodemon index.js
+```
 ## BACKEND SETUP
 
 ```
