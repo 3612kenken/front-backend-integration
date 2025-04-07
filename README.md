@@ -14,6 +14,9 @@ npm run dev
 
 npm i -D react-router-dom
 ```
+I used bootstrap CSS framework for minimal, quick, and professional design
+
+## IMPORT DATABASE INSTRUCTION
 - Create database from MongoDB -> 'db_cruds'
 - Look for JSON files from 'database' folder path
 - Import files into mongoDB collection with the following names 'tbl_business' and 'tbl_users'
