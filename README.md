@@ -26,9 +26,9 @@ npm install nodemon
 ```
 
 ## Screen Shots
-![Dashboard Screenshot ]([./dashboard.png))
+![Dashboard Screenshot ]([.dashboard.png))
 
-![MongoDB Screenshot ]([./database.png))
+![MongoDB Screenshot ]([.database.png))
 
 # Other features to update in this repository
 
