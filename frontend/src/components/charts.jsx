@@ -10,6 +10,7 @@ export default function Charts() {
           // Extract gender labels and totals
           const genderLabels = data.map((item) => item._id);
           const genderTotals = data.map((item) => item.total);
+
           // Create the PieChart
           const pie = {
             series: genderTotals, // Use the array directly

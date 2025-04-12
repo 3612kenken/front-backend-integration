@@ -4,6 +4,8 @@ import Charts from "./charts";
 import "./style.css";
 
 export default function Dashboard() {
+
+  
   return (
     <>
       <div className="container">

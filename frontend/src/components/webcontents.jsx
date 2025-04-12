@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function WebContents() {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(0); //var count=0
 
   return (
     <>

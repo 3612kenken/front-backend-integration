@@ -20,6 +20,7 @@ async function getReports() {
     // Check if any documents were found
     return report;
 }
+
 async function getGender() {
     try {
         const genderCounts = await BusinessModel.aggregate([
